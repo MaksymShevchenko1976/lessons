@@ -1,0 +1,53 @@
+@import url(reset.css);
+
+*{ 
+	color:green ;
+}
+
+h1{
+	color:darkred;
+}
+
+h2,h3,h4,h5,h6{
+	color: red;
+}
+
+#link{
+	color: aqua;
+}
+
+span{
+	color:rebeccapurple;
+}
+
+.notes li,
+.looc li{
+	color: rgb(18, 221, 55);
+}
+.text.looc li{
+	color: black;
+}
+
+div p{
+	color: blue;
+}
+
+.footer p{
+	color: black;
+}
+
+.histore>p{
+	color: rgb(15, 211, 54);
+}
+
+.his~p{
+color: rgb(229, 17, 197);
+}
+
+.his+p{
+	color: rgb(226, 237, 16);
+}
+
+[class*="_ok"]{
+	color: rgb(240, 15, 15);
+}
