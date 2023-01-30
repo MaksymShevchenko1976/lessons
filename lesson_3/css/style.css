@@ -48,6 +48,6 @@ color: rgb(229, 17, 197);
 	color: rgb(226, 237, 16);
 }
 
-[class*="_ok"]{
+[class*="-ok"]{
 	color: rgb(240, 15, 15);
 }
