@@ -2,9 +2,9 @@
 
 .page__one {
 padding-top: 15px;
-margin: 0 auto;
+margin: 0 auto 182px;
 overflow: hidden;
-background: #E5E5E5;
+max-width: 1250px;
 }
 .title {
 font-family: 'Poppins';
@@ -38,16 +38,17 @@ line-height: 25px;
 color: #6C757D;
 }
 .one__p {
-margin-bottom: 20px;
+margin-bottom: 30px;
 }
 .two__p {
-margin-bottom: 20px;
+margin-bottom: 30px;
 }
 .image1 {
 margin: 0px auto 80px;
 }
 .oneimage {
 margin: 0px auto;
+border-radius: 5px;
 display: block;
 max-width: 100%;
 }
@@ -56,7 +57,7 @@ max-width: 816px;
 margin: 0px auto 80px;
 }
 .foure__p {
-margin-bottom: 20px;
+margin-bottom: 30px;
 }
 .image__block2 {
 max-width: 1240px;
@@ -64,22 +65,17 @@ font-size: 0px;
 margin: 0px auto 80px;
 }
 .twoimage {
-vertical-align: top;
 border-radius: 5px;
 margin: 0px auto;   
 max-width: 100%;
 margin-right: 2.42%;
 }
 .threeimage {
-vertical-align: top;
 border-radius: 5px;
 max-width: 100%;
 margin: 0px auto;   
 }
 .blosk__text3 {
 max-width: 816px;
-margin: 0px auto 182px;
-}
-.six__p {
-margin-bottom: 60px;
+margin: 0px auto;
 }
