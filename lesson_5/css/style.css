@@ -1,0 +1,85 @@
+@import url("reset.css");
+
+.page__one {
+padding-top: 15px;
+margin: 0 auto;
+overflow: hidden;
+background: #E5E5E5;
+}
+.title {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 40px;
+color: #212529;
+}
+.one {
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+max-width: 400px;
+margin-right: auto;
+margin-bottom: 40px;
+margin-left: 0;
+}
+.two {
+max-width: 605px;
+margin-bottom: 40px;
+}
+.blosk__text1 {
+max-width: 816px;
+margin: 0px auto 80px;
+}
+.p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+color: #6C757D;
+}
+.one__p {
+margin-bottom: 20px;
+}
+.two__p {
+margin-bottom: 20px;
+}
+.image1 {
+margin: 0px auto 80px;
+}
+.oneimage {
+margin: 0px auto;
+display: block;
+max-width: 100%;
+}
+.bloske__text2 {
+max-width: 816px;
+margin: 0px auto 80px;
+}
+.foure__p {
+margin-bottom: 20px;
+}
+.image__block2 {
+max-width: 1240px;
+font-size: 0px;
+margin: 0px auto 80px;
+}
+.twoimage {
+vertical-align: top;
+border-radius: 5px;
+margin: 0px auto;   
+max-width: 100%;
+margin-right: 2.42%;
+}
+.threeimage {
+vertical-align: top;
+border-radius: 5px;
+max-width: 100%;
+margin: 0px auto;   
+}
+.blosk__text3 {
+max-width: 816px;
+margin: 0px auto 182px;
+}
+.six__p {
+margin-bottom: 60px;
+}
