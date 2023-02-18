@@ -1,0 +1,86 @@
+@import url("reset.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,700&display=swap");
+
+[class*="__container"] {
+	max-width: 1270px;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.vence {
+	font-family: "Poppins", sans-serif;
+	color: #6c757d;
+	font-size: 14px;
+	font-weight: 300;
+	margin-bottom: 263px;
+	background: #E5E5E5;
+}
+.vence__image-big-one {
+	display: block;
+	max-width: 100%;
+	margin: 0 auto 115px;
+}
+.vence__text-block {
+	max-width: 816px;
+	margin: 0 auto 80px;
+}
+.vence__title {
+	color: #212529;
+	font-size: 25px;
+	line-height: 1.6;
+	margin-bottom: 40px;
+	font-weight: 700;
+	max-width: 605px;
+}
+.p {
+	line-height: 1.78;
+	margin-bottom: 30px;
+}
+.p-three {
+	margin-bottom: 0px;
+}
+.vence__image {
+	max-width: 100%;
+	margin: 0 auto;
+	margin-bottom: 80px;
+}
+.p-five {
+	margin-bottom: 0px;
+}
+.images {
+	display: block;
+	margin: 0 auto;
+	font-size: 0;
+}
+.image01 {
+	max-width: 100%;
+	margin-right: 30px;
+	margin-bottom: 80px;
+}
+.image02 {
+	max-width: 100%;
+	margin-bottom: 80px;
+}
+.p-six {
+	margin-bottom: 0px;
+}
+.vence__image-big-two {
+	display: block;
+	max-width: 100%;
+	margin: 0 auto 100px;
+}
+.vence__title.two {
+	margin-bottom: 100px;
+}
+.image08 {
+	max-width: 100%;
+	margin-right: 30px;
+	margin-bottom: 100px;
+}
+.image09 {
+	max-width: 100%;
+	margin-bottom: 100px;
+}
+.p-nine {
+	margin-bottom: 0px;
+}
