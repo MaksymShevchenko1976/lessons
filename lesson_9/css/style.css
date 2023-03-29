@@ -1,0 +1,50 @@
+@import url("reset.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap");
+
+.wrapper {
+background-image: url("../fonts/water.png");
+background-repeat: repeat;
+background-attachment: fixed;
+font-family: "Inter";
+font-weight: 500;
+font-size: 21px;
+line-height: 1.3;
+color: rgba(251, 251, 252, 0.79);
+padding:15px;
+}
+[class*="__container"] {
+max-width: 1270px; 
+margin: 0 auto;
+padding: 20px 20px;
+text-align:center;
+background-color: rgb(12, 68, 171);
+border-radius: 20px;
+}
+.taitel__container {
+font-size: 40px;
+background-color: rgb(88, 8, 112);
+}
+[class*="__container"]:not(:last-child) {
+margin-bottom: 30px;
+}
+[class*="__block"]:not(:last-child) {
+margin-bottom: 20px;
+}
+[class*="icons"] img:not(:last-child){
+padding: 0px 20px 20px 0px;
+}
+[class*="design"] img:not(:last-child){
+padding: 0px 20px 20px 0px;
+}
+[class*="images"] img:not(:last-child){
+margin: 0px 20px 20px 0px;
+/* padding: 0px 20px 20px 0px; */
+} 
+[class*="images"] img{
+max-width: 90%;
+border-radius: 17px;
+vertical-align: middle;
+} 
+[class*="text"] {
+text-align:justify;
+}
